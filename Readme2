@@ -1,0 +1,4 @@
+The files added include: plot1.R, plot2.R, plot3.R, and plot4.R that each correspond to a plot1-plot4image file: png. The png file is the default 480 x 480 pixels. 
+The code reads data from the househols_power_consumption.txt file and only retrieves the data corresponding to the Feb 1-Feb 2, 2007 time frame.
+A 2880 rows by 9columns data frame. The dates and time columns were converted so that they were not treated as factors and were combined into a separate column.
+The plots represent different analysis of power consumption over the two day period.
